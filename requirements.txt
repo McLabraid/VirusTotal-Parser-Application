@@ -1,2 +1,2 @@
 virustotal-python==0.0.7
-Pillow==7.0.0
+Pillow==7.1.0
