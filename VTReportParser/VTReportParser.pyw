@@ -5,7 +5,7 @@ from tkinter import *
 from tkinter import filedialog
 from PIL import ImageTk, Image
 
-vt = Virustotal("52ab08c3c57873d9b4df707594a09034859d3a9183ef9a726861120b341561dd")
+vt = Virustotal("Enter API Key Here")
 
 
 def main():
