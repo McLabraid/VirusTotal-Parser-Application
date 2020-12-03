@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 ## GUI Interface 
 This section will go over the GUI interface
+
 ![Main menu](https://github.com/McLabraid/VirusTotal-Parser-Application/blob/master/RMImages/Main.png)
 
 1. Upload a file: A window is opened for the user to select an file to be analysed
