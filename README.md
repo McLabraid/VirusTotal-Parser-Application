@@ -9,8 +9,8 @@ _**This tool was created during my Bachelor of Science(Honours) Degree at the Te
 ## Requirements
 This tool being a Python 3.x based tool, the following libraries are required in the running of this tool. 
 
-virustotal-python==0.0.7
-Pillow==7.0.0
+- virustotal-python==0.0.7
+- Pillow==7.0.0
 
 These libraries are also listed within the requirements.txt and can be easily downloaded with the command.
 ```
